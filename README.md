@@ -60,7 +60,9 @@ npm start
 
 **La aplicación se abrirá como una ventana de escritorio.**
 
-💡 Información adicional
+---
+
+### 💡 **Información adicional**
 
 La rueda solo gira cuando el valor del volumen no es 0, y va girando más rapido según la cantidad de volumen que tenga, y si sobrepasa los 95 el hamster se descontrola.
 
