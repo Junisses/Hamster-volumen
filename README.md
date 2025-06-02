@@ -61,6 +61,9 @@ npm start
 **La aplicación se abrirá como una ventana de escritorio.**
 
 💡 Información adicional
+
 La rueda solo gira cuando el valor del volumen no es 0, y va girando más rapido según la cantidad de volumen que tenga, y si sobrepasa los 95 el hamster se descontrola.
+
 El volumen del equipo sube y baja con el slider de la interfaz de la aplicación, pero, si intentas subir y bajar directamente desde el equipo no cambiará en la aplicación.
+
 Toda la estructura del hámster y su rueda está construida con HTML y CSS, sin imágenes externas.
